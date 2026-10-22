@@ -49,6 +49,10 @@ read-only by design: your agent cannot send WhatsApp messages through it.
 
 Details: [privacy and storage](https://wa2agent.link/privacy).
 
+## Other ways to connect WhatsApp to AI
+
+Comparing options? [Awesome WhatsApp MCP](https://github.com/rosroyros/awesome-whatsapp-mcp) lists self-hosted servers, hosted services, the Business API and the free export route, with their risks. It also has a free skill that reads WhatsApp chat exports, no account needed.
+
 ## Install the skill
 
 With the [skills](https://skills.sh) CLI:
